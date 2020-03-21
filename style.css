@@ -3,7 +3,7 @@ margin:0;
 }
 
 header{
-background-color: red;
+background-color: white;
 height: 200px;
 font-size: 5em;
 }
@@ -36,4 +36,18 @@ height: 50px;
 img {
   border-radius: 8px;
   float: right;
+}
+
+.logo{
+  hight: 200px;
+  width: 80px;
+  float: right;
+  top: 5px;
+}
+
+.image1{
+  hight: 200px;
+  width: 200px;
+  float: right;
+  margin: 20px;
 }

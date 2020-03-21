@@ -1,0 +1,26 @@
+header{
+background-color: white;
+height: 200px;
+font-size: 5em;
+}
+
+.logo{
+  hight: 200px;
+  width: 80px;
+  float: right;
+  top: 5px;
+}
+
+article{
+background-color: #add1b9;
+width: 60vw;
+margin: 0 auto;
+}
+
+nav{
+float: left;
+width: 15vw;
+background-color: #e4dac5;
+position:sticky;
+top:20px;
+}
