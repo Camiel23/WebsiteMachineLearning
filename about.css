@@ -42,3 +42,29 @@ p {
 body {
   background-image: url('images/ai.jpg');
   margin: 0px; 
+}
+
+@media screen and (max-width: 750px) {
+nav{
+ width: 30vw;
+}
+
+article{
+ width: 35vw;
+}
+
+}
+
+@media screen and (max-width: 749px) {
+table{
+display: none;
+}
+
+}
+
+@media screen and (max-width: 588px) {
+.logo{
+float: right;
+}
+
+}

@@ -38,3 +38,23 @@ margin: 0px;
 p {
  margin: 0px; 
 }
+
+@media screen and (max-width: 750px) {
+nav{
+ width: 30vw;
+ float: left;
+ padding: 5px;
+}
+article{
+ width: 35vw;
+ float: left;
+}
+
+}
+
+@media screen and (max-width: 588px) {
+.logo{
+float: right;
+}
+
+}

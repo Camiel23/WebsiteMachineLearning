@@ -40,17 +40,23 @@ img {
 }
 
 .logo{
-  hight: 200px;
+  height: 200px;
   width: 80px;
   float: left;
   top: 5px;
 }
 
 .image1{
-  hight: 200px;
+  height: 200px;
   width: 200px;
   float: right;
   margin: 20px;
+}
+
+iframe{
+ width: 350px;
+ height: 280px;
+ margin: 20px;
 }
 
 thead {color:green;}
@@ -72,4 +78,35 @@ margin: 0px;
 
 p {
  margin: 0px; 
+}
+
+@media screen and (max-width: 750px) {
+nav{
+ width: 30vw;
+}
+article{
+ width: 35vw;
+}
+.image1{
+display: none;
+}
+iframe{
+ width: 30vw;
+ margin: 10px;
+}
+
+}
+
+@media screen and (max-width: 749px) {
+table{
+display: none;
+}
+
+}
+
+@media screen and (max-width: 588px) {
+.logo{
+float: right;
+}
+
 }
