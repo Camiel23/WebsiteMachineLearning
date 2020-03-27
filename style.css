@@ -13,7 +13,7 @@ float: left;
 width: 15vw;
 background-color: #7EA5FF ;
 position:sticky;
-top:20px;
+top: 20px;
 }
 
 article{
@@ -28,9 +28,10 @@ aside{
 
 footer{
 background-color: #7EA5FF ;
-bottom: 0px;
+bottom: 40px;
 width: 100%;
-height: 50px;
+height: 40px;
+margin: 0px;
 }
 
 img {
@@ -62,4 +63,13 @@ table, th, td {
 
 div {
   background-image: url('images/ai.jpg');
+  margin: 0px; 
+}
+
+.sss {
+margin: 0px;
+}
+
+p {
+ margin: 0px; 
 }
