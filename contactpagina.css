@@ -5,12 +5,12 @@ font-size: 5em;
 }
 
 .logo{
-  hight: 200px;
-  width: 80px;
+  height: 100px;
+  width: 100px;
   float: left;
-  top: 4px;
+  top: 5px;
+  margin: 10px;
 }
-
 article{
 width: 60vw;
 margin: 0 auto;
@@ -55,9 +55,9 @@ article{
 
 }
 
-@media screen and (max-width: 588px) {
+@media screen and (max-width: 709px) {
 .logo{
-float: right;
+display: none;
 }
 
 }

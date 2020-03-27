@@ -34,11 +34,13 @@ p {
 }
 
 .logo{
-  hight: 200px;
-  width: 80px;
+  height: 100px;
+  width: 100px;
   float: left;
-  top: 4px;
+  top: 5px;
+  margin: 10px;
 }
+
 
 body {
   background-image: url('images/ai.jpg');
@@ -63,9 +65,9 @@ display: none;
 
 }
 
-@media screen and (max-width: 588px) {
+@media screen and (max-width: 709px) {
 .logo{
-float: right;
+display: none;
 }
 
 }
