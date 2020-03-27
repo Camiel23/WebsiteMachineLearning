@@ -30,4 +30,11 @@ body{
     background-image: url('images/bg.jpg');
 
 }
-test
+
+.sss {
+margin: 0px;
+}
+
+p {
+ margin: 0px; 
+}
