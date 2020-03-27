@@ -1,5 +1,5 @@
 header{
-background-image: url(images/bg.jpg);
+background-image: url(images/robotto.jpg);
 height: 200px;
 font-size: 5em;
 }
@@ -12,23 +12,26 @@ font-size: 5em;
 }
 
 article{
-background-image: url('images/bg.jpg');
 width: 60vw;
 margin: 0 auto;
+background-color: #7EA5FF;
+padding: 10px;
+
 }
 
 nav{
 float: left;
-background-color: rgb(220, 236, 255);
-width: 3vw;
+background-color: #7EA5FF;
+width: 15vw;
 position:sticky;
 top:20px;
-padding: 100px
+margin: 10px;
+
 }
 
 body{
-    background-image: url('images/bg.jpg');
-
+ background-image: url('images/ai.jpg');
+ margin: 0px;
 }
 
 .sss {
