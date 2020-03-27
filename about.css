@@ -1,34 +1,27 @@
+
+div {
+  background-image: url('images/ai.jpg');
+  margin: 0px; 
+}
+
 header{
-background-color: white;
 height: 200px;
 font-size: 5em;
-}
-
-.logo{
-  hight: 200px;
-  width: 80px;
-  float: left;
-  top: 4px;
-}
-
-article{
-background-image: url('images/bg.jpg');
-width: 60vw;
-margin: 0 auto;
+background-image: url(images/robotto.jpg);
 }
 
 nav{
 float: left;
-background-color: #e4dac5;
 width: 15vw;
+background-color: #7EA5FF ;
 position:sticky;
-top:20px;
-padding: 15px
+top: 20px;
 }
 
-body{
-    background-image: url('images/bg.jpg');
-
+article{
+background-color: #7EA5FF ;
+width: 60vw;
+margin: 0 auto;
 }
 
 .sss {
@@ -37,4 +30,11 @@ margin: 0px;
 
 p {
  margin: 0px; 
+}
+
+.logo{
+  hight: 200px;
+  width: 80px;
+  float: left;
+  top: 4px;
 }
