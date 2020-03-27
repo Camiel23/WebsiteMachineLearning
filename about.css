@@ -38,3 +38,7 @@ p {
   float: left;
   top: 4px;
 }
+
+body {
+  background-image: url('images/ai.jpg');
+  margin: 0px; 
