@@ -55,7 +55,7 @@ img {
 
 thead {color:green;}
 tbody {color:blue;}
-tfoot {color:red;}
+tfoot {color:blue;}
 
 table, th, td {
   border: 1px solid black;
